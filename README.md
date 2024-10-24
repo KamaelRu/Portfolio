@@ -12,7 +12,7 @@ This is a 3D platformer game made with Unreal Engine. It features combat, stealt
 - "Apply" button to save your preferences in real-time!
 
 ## Installation & How to Play
-1. Download the game from [Google Drive](https://drive.google.com/file/d/1SBUvd4btgGO7ib2l1-ck8SWxcvpntXEI/view?usp=sharing).
+1. Download the game from [Google Drive](https://drive.google.com/file/d/1gv2NGMlujc9zb2D8m2nScnsIWFiTVH9V/view?usp=sharing).
 2. Extract the folder.
 3. Run `CasualGameGo.exe` and enjoy!
 
