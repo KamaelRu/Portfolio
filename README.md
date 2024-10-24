@@ -12,7 +12,7 @@ This is a 3D platformer game made with Unreal Engine. It features combat, stealt
 - "Apply" button to save your preferences in real-time!
 
 ## Installation & How to Play
-1. Download the game from [Google Drive]([https://link-to-your-file](https://drive.google.com/file/d/1SBUvd4btgGO7ib2l1-ck8SWxcvpntXEI/view?usp=sharing)).
+1. Download the game from [Google Drive]([(https://drive.google.com/file/d/1SBUvd4btgGO7ib2l1-ck8SWxcvpntXEI/view?usp=sharing)]).
 2. Extract the folder.
 3. Run `MyGame.exe` and enjoy!
 
