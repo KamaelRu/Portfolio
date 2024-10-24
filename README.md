@@ -14,7 +14,7 @@ This is a 3D platformer game made with Unreal Engine. It features combat, stealt
 ## Installation & How to Play
 1. Download the game from [Google Drive](https://drive.google.com/file/d/1SBUvd4btgGO7ib2l1-ck8SWxcvpntXEI/view?usp=sharing).
 2. Extract the folder.
-3. Run `MyGame.exe` and enjoy!
+3. Run `CasualGameGo.exe` and enjoy!
 
 
 feat: added mana, life count, double jump, combo attacks, sounds, and damage types
