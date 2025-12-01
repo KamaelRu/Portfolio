@@ -11,10 +11,6 @@ This is a 3D platformer game made with Unreal Engine. It features combat, stealt
 - Seamless transitions between windowed, fullscreen, and borderless modes.
 - "Apply" button to save your preferences in real-time!
 
-## Installation & How to Play
-1. Download the game from [Google Drive](https://drive.google.com/drive/folders/12U2ssJo8zgSUFKnlet0r1KhFYn5hxmqq?usp=sharing).
-2. Extract the folder.
-3. Run `CasualGameGo.exe` and enjoy!
 
 
 feat: added mana, life count, double jump, combo attacks, sounds, and damage types
